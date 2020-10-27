@@ -4,14 +4,14 @@
 
 ### Informations
 <li>Programming Language: HTML, CSS, JS</li>
-<li>Domain: [me.hxnrycz.tk](https://me.hxnrycz.tk/)</li>
+<li>Domain: <a href="https://me.hxnrycz.tk">me.hxnrycz.tk</a></li>
 <li>Version: 1.0.0 BETA</li>
 <li>Creators: Hxnry (that's me!)</li>
 <li>Styles used: HxnrysCSS, HxnrysJS, HxnrysSTARTKIT (everything i made)</li>
-<li>Registered on [status](https://projects.hxnrycz.tk) page: Negative</li>
+<li>Registered on <a href="https://projects.hxnrycz.tk">status</a> page: Negative</li>
 <li>Useful: Negative</li>
 
 ### Contact to Developer
-<li>[E-Mail](mailto:hxnry@hxnrycz.tk)</li>
-<li>[Forum](https://forum.hxnrycz.tk)</li>
-<li>[Discord](https://dsc.bio/Hxnry) (recommended)</li>
+<li><a href="mailto:hxnry@hxnrycz.tk">E-Mail</a></li>
+<li><a href="https://forum.hxnrycz.tk">Forum</a></li>
+<li><a href="https://dsc.bio/Hxnry">Discord</a> (recommended)</li>
