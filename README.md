@@ -9,7 +9,7 @@
 <li>Active: Negative</li>
 <li>Creators: Hxnry (that's me!)</li>
 <li>Styles used: HxnrysCSS, HxnrysJS, HxnrysSTARTKIT (everything i made)</li>
-<li>Registered on <a href="https://projects.hxnrycz.tk" target="_blank">status</a> page: True (status.hxnrycz.tk/affected/storage)</li>
+<li>Registered on <a href="https://projects.hxnrycz.tk" target="_blank">status</a> page: True (<a href="https://status.hxnrycz.tk/affected/storage">status.hxnrycz.tk/affected/storage</a>)</li>
 <li>Useful: True (only css)</li>
 
 ### Contact to Developer
