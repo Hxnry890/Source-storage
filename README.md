@@ -5,12 +5,13 @@
 ### Informations
 <li>Programming Language: HTML, CSS, JS</li>
 <li>Domain: <a href="https://me.hxnrycz.tk" target="_blank">me.hxnrycz.tk</a></li>
-<li>Version: 1.0.0 BETA</li>
-<li>Active: True (only css)</li>
+<li>Version: 1.1.0</li>
+<li>Active: True</li>
 <li>Creators: Hxnry (that's me!)</li>
-<li>Styles used: HxnrysCSS, HxnrysJS, HxnrysSTARTKIT (everything i made)</li>
+<li>Styles used: HxnrysCSS (i made)</li>
 <li>Registered on <a href="https://projects.hxnrycz.tk" target="_blank">status</a> page: True (<a href="https://status.hxnrycz.tk/affected/storage">status.hxnrycz.tk/affected/storage</a>)</li>
-<li>Useful: True (only css)</li>
+<li>Useful: True</li>
+<li>content: HxnrysCSS, Hxnrys StarterKit</li>
 
 ### Contact to Developer
 <li><a href="mailto:hxnry@hxnrycz.tk">E-Mail</a></li>
